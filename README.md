@@ -16,6 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmingpirates&show_icons=true&locale=en&layout=compact" alt="programmingpirates" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmingpirates&show_icons=true&locale=en" alt="programmingpirates" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
